@@ -1,15 +1,39 @@
-# Unichat Application
+# Real Time Chat
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+## Description
+A real time chat application where a user can login in with their google account
+and make chat rooms and invite others to talk. They are able to make multiple
+chat rooms and invite as many people as they want to each one. A user needs to
+have a google account in order to chat. This project is a practice project
+following the YouTube video [Build a BETTER Facebook Messenger Chat Application
+| React JS, Firebase, Chat Engine](https://www.youtube.com/watch?v=Bv9Js3QLOLY)
+by [JavaScript
+Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A). Here in the
+video I tried to code ahead of the video, but since I needed to learn this
+concepts behind a chat room I would often follow the video.
 
-## Introduction
+## Summary
+I plan in the future to build my own chat project and incorporate chat rooms in
+other projects, so I believe that this project would be very helpful in the near
+future. Foloowing the video and doign some reasearch I was able to learn the
+basic concpets of build a chat room and structuring them in a file. It also
+introduced me to libraries tha cna help build the chat room and how to manage
+the and handle the users and their data.
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+## Tools
+For this project it was built with React.js, JavaScript, HTML, and CSS for the
+visuals. For the chat room the data was handled with axios and api.chatengine.io, and was
+managed with react-chat-engine. Lastly everything was put together with
+firebase.
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+## Images
+![Home](https://github.com/JoseJ55/real-time-chat/blob/main/public/images/realTimeChatMain.png?raw=true)
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+## URL
+https://github.com/JoseJ55/real-time-chat
 
-### Bonus - E-mail notifications
+https://www.youtube.com/watch?v=Bv9Js3QLOLY
 
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
+
+https://api.chatengine.io
